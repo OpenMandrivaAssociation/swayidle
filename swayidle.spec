@@ -12,6 +12,7 @@ Conflicts:      sway < 1.0
 BuildRequires:  meson >= 0.48.0
 BuildRequires:  pkgconfig(wayland-client)
 BuildRequires:  pkgconfig(wayland-protocols) >= 1.14
+BuildRequires:  pkgconfig(libsystemd)
 BuildRequires:  scdoc
 
 %description
