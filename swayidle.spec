@@ -1,5 +1,5 @@
 Name:       swayidle
-Version:	1.5
+Version:	1.6
 Release:	1
 Summary:    Sway idle manager
 
@@ -41,5 +41,5 @@ swaylock is a screen locking utility for Wayland compositors.
 %dir %{_datadir}/zsh/site-functions
 %{_datadir}/zsh/site-functions/_%{name}
 %dir %{_datadir}/fish
-%dir %{_datadir}/fish/completions
-%{_datadir}/fish/completions/%{name}.fish
+%dir %{_datadir}/fish/vendor_completions.d
+%{_datadir}/fish/vendor_completions.d/%{name}.fish
