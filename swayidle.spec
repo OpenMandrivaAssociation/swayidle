@@ -1,5 +1,5 @@
 Name:       swayidle
-Version:	1.6
+Version:	1.7.1
 Release:	1
 Summary:    Sway idle manager
 
@@ -22,7 +22,7 @@ swaylock is a screen locking utility for Wayland compositors.
 %autosetup
 
 %build
-%meson -D%{name}-version=%{version}
+%meson
 %meson_build
 
 %install
