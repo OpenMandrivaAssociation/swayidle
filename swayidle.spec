@@ -1,6 +1,6 @@
 Name:       swayidle
-Version:	1.7.1
-Release:	2
+Version:	1.8.0
+Release:	1
 Summary:    Sway idle manager
 
 License:    MIT
