@@ -1,5 +1,5 @@
 Name:       swayidle
-Version:	1.9.0
+Version:	1.9.1
 Release:	1
 Summary:    Sway idle manager
 
